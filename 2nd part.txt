@@ -1,0 +1,8 @@
+Question3
+The set is an unordered collection of data types that is iterable, mutable and has no duplicate elements.A dictionary in Python is an ordered collection of data values, used to store data values like a map.
+
+Question4
+A lambda function is an anonymous function. This function can have any number of parameters but, can have just one statement
+
+Question5
+Pass means performing no operation or in other words, it is a placeholder in the compound statement, where there should be a blank left and nothing has to be written there.
